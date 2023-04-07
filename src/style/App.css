@@ -10,4 +10,7 @@
   flex-direction: column;
   justify-content: space-around;
   height: 150px;
+  background-color: teal;
+  border-radius: 10px;
+  box-shadow: 0px 0px 3px 3px cyan inset;
 }
